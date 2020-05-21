@@ -1,6 +1,6 @@
 package main
 
-import "fmt"
+import "fmt" //fmt 提供格式化,输出,输入的函数
 
 func main() {
 	fmt.Println("你好\t世界") //一个制表位，实现对齐的功能
